@@ -1,0 +1,30 @@
+{
+  "name": "zl-meowallet",
+  "version": "0.0.4",
+  "description": "Node wrapper for MEO Wallet API",
+  "tags": [
+    "meo",
+    "wallet",
+    "codebits",
+    "sapo"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zettacristiano/zl-meowallet.git"
+  },
+  "author": "",
+  "contributors": [
+    ""
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zettacristiano/zl-meowallet/issues"
+  },
+  "dependencies": {
+    "request": "~2.34.0"
+  }
+}

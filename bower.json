@@ -1,0 +1,14 @@
+{
+  "name": "zl-meowallet",
+  "description": "Node wrapper for MEO Wallet API",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/zettacristiano/zl-meowallet",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
