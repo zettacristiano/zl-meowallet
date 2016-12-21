@@ -1,6 +1,6 @@
 {
   "name": "zl-meowallet",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Node wrapper for MEO Wallet API",
   "tags": [
     "meo",
