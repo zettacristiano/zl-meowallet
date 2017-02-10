@@ -1,6 +1,6 @@
 {
   "name": "zl-meowallet",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Node wrapper for MEO Wallet API",
   "tags": [
     "meo",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zettacristiano/zl-meowallet.git"
+    "url": "git://github.com/zettalink/zl-meowallet.git"
   },
   "author": "",
   "contributors": [
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zettacristiano/zl-meowallet/issues"
+    "url": "https://github.com/zettalink/zl-meowallet/issues"
   },
   "dependencies": {
     "request": "~2.34.0"
