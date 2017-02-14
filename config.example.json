@@ -14,13 +14,5 @@
       "url_confirm": "http://example.com/confirm",
       "url_cancel": "http://example.com/cancel"
     }
-  },
-  "test": {
-    "meowallet": {
-      "url": "https://services.sandbox.meowallet.pt/api/v2/",
-      "key": "YOUR KEY",
-      "url_confirm": "http://example.com/confirm",
-      "url_cancel": "http://example.com/cancel"
-    }
   }
 }
