@@ -1,6 +1,6 @@
 {
   "name": "zl-meowallet",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "description": "Node wrapper for MEO Wallet API",
   "tags": [
     "meo",
@@ -25,6 +25,6 @@
     "url": "https://github.com/zettalink/zl-meowallet/issues"
   },
   "dependencies": {
-    "request": "~2.34.0"
+    "request": "~2.79.0"
   }
 }
